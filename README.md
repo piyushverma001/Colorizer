@@ -1,7 +1,7 @@
 # Colorizer
 AI based Image Coloring of B/W images
 
-This project is based on a refrence from a research paper titled 'Colourful Image Colorization' authored by 
+This project is based on a refrence from a research paper titled 'Colourful Image Colorization' authored by  Richard Zhang, Phillip Isola and Alexei Efros at https://arxiv.org/abs/1603.08511
 
 ## Project Directory
 The directory includes app.py as the main flask server application. It misses a directory named model which stores the binary caffe model for prediction. The model folder is linked at __ due to file size limit on Github copy it in the same directory as project. 
@@ -26,3 +26,9 @@ Here is a sample video demonstrating recoloring of an Iconic Hindi Bollywood B&W
 
 ### For Example 
 ![Alt desc](http://colorizer.pythonanywhere.com/static/images/example.jpg)
+
+### Future Work
+I will soon be updating repository with Video Conversion WebApp
+
+
+#### Thank You
