@@ -4,7 +4,7 @@ AI based Image Coloring of B/W images
 This project is based on a refrence from a research paper titled 'Colourful Image Colorization' authored by  Richard Zhang, Phillip Isola and Alexei Efros at https://arxiv.org/abs/1603.08511
 
 ## Project Directory
-The directory includes app.py as the main flask server application. It misses a directory named model which stores the binary caffe model for prediction. The model folder is linked at __ due to file size limit on Github copy it in the same directory as project. 
+The directory includes app.py as the main flask server application. It misses a directory named model which stores the binary caffe model for prediction. The model folder is linked at __ due to file size limit on Github, Copy model folder in the same directory as the project. 
 
 ## Requirements
 The project needs to be installed with following requirements
