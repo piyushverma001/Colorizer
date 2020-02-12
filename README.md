@@ -19,6 +19,7 @@ The project needs to be installed with following requirements
 ## Working 
 AI based image recoloring of black and white images uses deep neural networks trained over a large sample of images (1.5 Million) in LAB color space with L channel as input and ab channel as output.
 This is the Neural Network Architecture used for training:
+
 ![Alt Model](https://www.pyimagesearch.com/wp-content/uploads/2019/02/bw_colorization_opencv_arch.png)
 
 Here is a sample video demonstrating recoloring of an Iconic Hindi Bollywood B&W song https://www.linkedin.com/posts/piyush-verma-258800163_ai-deeplearning-webapp-activity-6633071583818805248-ET6-.
